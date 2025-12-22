@@ -9,28 +9,6 @@ jobs:
   m3u8-fetcher:
     runs-on: ubuntu-latest
     steps:
-      - name: Check time
-        id: check_time
-        run: |
-          hour=$(TZ=America/New_York date +%-H)
-
-          (( hour >= 8 && hour <= 23 )) && echo "run=true" >> $GITHUB_OUTPUT || echo "run=false" >> $GITHUB_OUTPUT
-
-      - name: Checkout
-        if: steps.check_time.outputs.run == 'true'
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Cache venv
-        if: steps.check_time.outputs.run == 'true'
-        uses: actions/cache@v3
-        with:
-          path: .venv
-          key: shared-venv-${{ runner.os }}-${{ hashFiles('uv.lock') }}
-          restore-keys: |
-            shared-venv-${{ runner.os }}-
-
       - name: Cache cert
         uses: actions/cache@v3
         with:
