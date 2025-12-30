@@ -704,9 +704,3 @@ https://stream.nvrmind.xyz/strmfree/newcastle-united-vs-burnley/index.m3u8?strea
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/wolverhampton-wanderers-vs-manchester-united/index.m3u8?stream_name=Wolverhampton+Wanderers+vs+Manchester+United
-
-#EXTINF:-1 tvg-chno="192" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Kubota High Limit Racing - Race (ROXIE)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Racing] Kubota High Limit Racing - Race (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.live
-#EXTVLCOPT:http-origin=https://roxiestreams.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://601.shadow-ran.online/flo.m3u8
