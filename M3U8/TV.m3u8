@@ -668,3 +668,45 @@ http://origin.thetvapp.to/hls/NHL31/mono.m3u8
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL30/mono.m3u8
+
+#EXTINF:-1 tvg-chno="186" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] AFC Bournemouth vs Chelsea (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_afc-bournemouth-vs-chelsea_AFC_Bournemouth_vs_Chelsea" group-title="Live Events",[Premier League] AFC Bournemouth vs Chelsea (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/afc-bournemouth-vs-chelsea/index.m3u8?stream_name=AFC+Bournemouth+vs+Chelsea
+
+#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Aston Villa vs Arsenal (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_aston-villa-vs-arsenal_Aston_Villa_vs_Arsenal" group-title="Live Events",[Premier League] Aston Villa vs Arsenal (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/aston-villa-vs-arsenal/index.m3u8?stream_name=Aston+Villa+vs+Arsenal
+
+#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Brighton & Hove Albion vs West Ham United (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_brighton-hove-albion-vs-west-ham-united_Brighton__Hove_Albion_vs_West_" group-title="Live Events",[Premier League] Brighton & Hove Albion vs West Ham United (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/brighton-hove-albion-vs-west-ham-united/index.m3u8?stream_name=Brighton+%26+Hove+Albion+vs+West+Ham+United
+
+#EXTINF:-1 tvg-chno="189" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Everton vs Nottingham Forest (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_everton-vs-nottingham-forest_Everton_vs_Nottingham_Forest" group-title="Live Events",[Premier League] Everton vs Nottingham Forest (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/everton-vs-nottingham-forest/index.m3u8?stream_name=Everton+vs+Nottingham+Forest
+
+#EXTINF:-1 tvg-chno="190" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Newcastle United vs Burnley (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_newcastle-united-vs-burnley_Newcastle_United_vs_Burnley" group-title="Live Events",[Premier League] Newcastle United vs Burnley (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/newcastle-united-vs-burnley/index.m3u8?stream_name=Newcastle+United+vs+Burnley
+
+#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Wolverhampton Wanderers vs Manchester United (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_wolverhampton-wanderers-vs-manchester-united_Wolverhampton_Wanderers_vs_Man" group-title="Live Events",[Premier League] Wolverhampton Wanderers vs Manchester United (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/wolverhampton-wanderers-vs-manchester-united/index.m3u8?stream_name=Wolverhampton+Wanderers+vs+Manchester+United
+
+#EXTINF:-1 tvg-chno="192" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Kubota High Limit Racing - Race (ROXIE)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Racing] Kubota High Limit Racing - Race (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.live
+#EXTVLCOPT:http-origin=https://roxiestreams.live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.shadow-ran.online/flo.m3u8
