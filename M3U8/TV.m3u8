@@ -573,79 +573,145 @@ http://origin.thetvapp.to/hls/NHL31/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL28/mono.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Main Event (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/uk_51ab1dd9-fabe-4af4-8547-7d4e810206e0_Sky_Sports_Main_Event" group-title="Live Events",[SKY] Sky Sports Main Event (STRMFREE)
+#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Aston Villa vs Crystal Palace (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_aston-villa-vs-crystal-palace_Aston_Villa_vs_Crystal_Palace" group-title="Live Events",[Premier League] Aston Villa vs Crystal Palace (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/aston-villa-vs-crystal-palace/index.m3u8?stream_name=Aston+Villa+vs+Crystal+Palace
+
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Brighton & Hove Albion vs Manchester City (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_brighton-hove-albion-vs-manchester-city_Brighton__Hove_Albion_vs_Manch" group-title="Live Events",[Premier League] Brighton & Hove Albion vs Manchester City (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/brighton-hove-albion-vs-manchester-city/index.m3u8?stream_name=Brighton+%26+Hove+Albion+vs+Manchester+City
+
+#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Chelsea vs Fulham (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_chelsea-vs-fulham_Chelsea_vs_Fulham" group-title="Live Events",[Premier League] Chelsea vs Fulham (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/chelsea-vs-fulham/index.m3u8?stream_name=Chelsea+vs+Fulham
+
+#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Leeds United vs Newcastle United (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_leeds-united-vs-newcastle-united_Leeds_United_vs_Newcastle_Unit" group-title="Live Events",[Premier League] Leeds United vs Newcastle United (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/leeds-united-vs-newcastle-united/index.m3u8?stream_name=Leeds+United+vs+Newcastle+United
+
+#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Manchester United vs Burnley (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_manchester-united-vs-burnley_Manchester_United_vs_Burnley" group-title="Live Events",[Premier League] Manchester United vs Burnley (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/manchester-united-vs-burnley/index.m3u8?stream_name=Manchester+United+vs+Burnley
+
+#EXTINF:-1 tvg-chno="175" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Sunderland vs Brentford (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_sunderland-vs-brentford_Sunderland_vs_Brentford" group-title="Live Events",[Premier League] Sunderland vs Brentford (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/sunderland-vs-brentford/index.m3u8?stream_name=Sunderland+vs+Brentford
+
+#EXTINF:-1 tvg-chno="176" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Tottenham Hotspur vs AFC Bournemouth (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_tottenham-hotspur-vs-afc-bournemouth_Tottenham_Hotspur_vs_AFC_Bourn" group-title="Live Events",[Premier League] Tottenham Hotspur vs AFC Bournemouth (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/tottenham-hotspur-vs-afc-bournemouth/index.m3u8?stream_name=Tottenham+Hotspur+vs+AFC+Bournemouth
+
+#EXTINF:-1 tvg-chno="177" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Wolverhampton Wanderers vs Everton (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_wolverhampton-wanderers-vs-everton_Wolverhampton_Wanderers_vs_Eve" group-title="Live Events",[Premier League] Wolverhampton Wanderers vs Everton (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/wolverhampton-wanderers-vs-everton/index.m3u8?stream_name=Wolverhampton+Wanderers+vs+Everton
+
+#EXTINF:-1 tvg-chno="178" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Main Event (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/uk_51ab1dd9-fabe-4af4-8547-7d4e810206e0_Sky_Sports_Main_Event" group-title="Live Events",[SKY] Sky Sports Main Event (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/skysportsmainevent/index.m3u8?stream_name=Sky+Sports+Main+Event
 
-#EXTINF:-1 tvg-chno="171" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Premier League (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/uk_bd28f7e5-6df0-4870-8f34-d91ef81cb2d1_Sky_Sports_Premier_League" group-title="Live Events",[SKY] Sky Sports Premier League (STRMFREE)
+#EXTINF:-1 tvg-chno="179" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Premier League (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/uk_bd28f7e5-6df0-4870-8f34-d91ef81cb2d1_Sky_Sports_Premier_League" group-title="Live Events",[SKY] Sky Sports Premier League (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/skysportspremierkeague/index.m3u8?stream_name=Sky+Sports+Premier+League
 
-#EXTINF:-1 tvg-chno="172" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Tennis (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Live Events",[SKY] Sky Sports Tennis (STRMFREE)
+#EXTINF:-1 tvg-chno="180" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Tennis (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Live Events",[SKY] Sky Sports Tennis (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/skysportstennis/index.m3u8?stream_name=Sky+Sports+Tennis
 
-#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Atalanta vs Bologna (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_atalanta-vs-bologna_Atalanta_vs_Bologna" group-title="Live Events",[Serie A] Atalanta vs Bologna (STRMFREE)
+#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Atalanta vs Bologna (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_atalanta-vs-bologna_Atalanta_vs_Bologna" group-title="Live Events",[Serie A] Atalanta vs Bologna (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/atalanta-vs-bologna/index.m3u8?stream_name=Atalanta+vs+Bologna
 
-#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Hellas Verona vs Napoli (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_hellas-verona-vs-napoli_Hellas_Verona_vs_Napoli" group-title="Live Events",[Serie A] Hellas Verona vs Napoli (STRMFREE)
+#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Fiorentina vs Lazio (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_fiorentina-vs-lazio_Fiorentina_vs_Lazio" group-title="Live Events",[Serie A] Fiorentina vs Lazio (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/fiorentina-vs-lazio/index.m3u8?stream_name=Fiorentina+vs+Lazio
+
+#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Hellas Verona vs Napoli (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_hellas-verona-vs-napoli_Hellas_Verona_vs_Napoli" group-title="Live Events",[Serie A] Hellas Verona vs Napoli (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/hellas-verona-vs-napoli/index.m3u8?stream_name=Hellas+Verona+vs+Napoli
 
-#EXTINF:-1 tvg-chno="175" tvg-id="Live.Event.us" tvg-name="[Snooker] Championship League Snookere 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Championship League Snookere 1 (FAWA)
+#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Internazionale vs Parma (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_internazionale-vs-parma_Internazionale_vs_Parma" group-title="Live Events",[Serie A] Internazionale vs Parma (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/internazionale-vs-parma/index.m3u8?stream_name=Internazionale+vs+Parma
+
+#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Udinese vs Torino (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_udinese-vs-torino_Udinese_vs_Torino" group-title="Live Events",[Serie A] Udinese vs Torino (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/udinese-vs-torino/index.m3u8?stream_name=Udinese+vs+Torino
+
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Snooker] Championship League Snookere 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Championship League Snookere 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.frikasi.sbs/hls/vgvgvgq.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[Snooker] Championship League Snookere 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Championship League Snookere 2 (FAWA)
+#EXTINF:-1 tvg-chno="187" tvg-id="Live.Event.us" tvg-name="[Snooker] Championship League Snookere 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Championship League Snookere 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://f.frikasi.sbs/hls/vgvgvg.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Brisbane (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis ATP] Tennis ATP Brisbane (FAWA)
+#EXTINF:-1 tvg-chno="188" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Brisbane (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis ATP] Tennis ATP Brisbane (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/EEEEX.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Hong Kong (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis ATP] Tennis ATP Hong Kong (FAWA)
+#EXTINF:-1 tvg-chno="189" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Hong Kong (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis ATP] Tennis ATP Hong Kong (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/EEEEQ.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Brisbane (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis WTA] Tennis WTA Brisbane (FAWA)
+#EXTINF:-1 tvg-chno="190" tvg-id="Live.Event.us" tvg-name="[Tennis WTA] Tennis WTA Brisbane (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Tennis WTA] Tennis WTA Brisbane (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/EEEE.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis United Cup 1 (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis United Cup 1 (FAWA)
+#EXTINF:-1 tvg-chno="191" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis United Cup 1 (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis United Cup 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/EEEEQq.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis United Cup 2 (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis United Cup 2 (FAWA)
+#EXTINF:-1 tvg-chno="192" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis United Cup 2 (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis United Cup 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/FRFRFRQ.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[UAE Premier League] Ittihad Kalba vs Al Wasl (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[UAE Premier League] Ittihad Kalba vs Al Wasl (FAWA)
+#EXTINF:-1 tvg-chno="193" tvg-id="Live.Event.us" tvg-name="[UAE Premier League] Ittihad Kalba vs Al Wasl (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[UAE Premier League] Ittihad Kalba vs Al Wasl (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
