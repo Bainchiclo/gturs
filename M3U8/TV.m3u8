@@ -441,164 +441,188 @@ http://cord-cutter.net:8080/30550113/30550113/41979
 #EXTINF:-1 tvg-chno="147" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-id="Live.Event.us" tvg-name="[Alpine Skiing] Alpine Skiing World Cup (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Alpine Skiing] Alpine Skiing World Cup (FAWA)
+#EXTINF:-1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Athletic Club vs Atalanta (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_athletic-club-vs-atalanta_Athletic_Club_vs_Atalanta" group-title="Live Events",[Champions League] Athletic Club vs Atalanta (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/athletic-club-vs-atalanta/index.m3u8?stream_name=Athletic+Club+vs+Atalanta
+
+#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Atlético Madrid vs Galatasaray (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_atlético-madrid-vs-galatasaray_Atlético_Madrid_vs_Galatasaray" group-title="Live Events",[Champions League] Atlético Madrid vs Galatasaray (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/atlético-madrid-vs-galatasaray/index.m3u8?stream_name=Atl%C3%A9tico+Madrid+vs+Galatasaray
+
+#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Barcelona vs Slavia Prague (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_barcelona-vs-slavia-prague_Barcelona_vs_Slavia_Prague" group-title="Live Events",[Champions League] Barcelona vs Slavia Prague (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/barcelona-vs-slavia-prague/index.m3u8?stream_name=Barcelona+vs+Slavia+Prague
+
+#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Benfica vs Juventus (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_benfica-vs-juventus_Benfica_vs_Juventus" group-title="Live Events",[Champions League] Benfica vs Juventus (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/benfica-vs-juventus/index.m3u8?stream_name=Benfica+vs+Juventus
+
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Eintracht Frankfurt vs FK Qarabag (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_eintracht-frankfurt-vs-fk-qarabag_Eintracht_Frankfurt_vs_FK_Qara" group-title="Live Events",[Champions League] Eintracht Frankfurt vs FK Qarabag (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/eintracht-frankfurt-vs-fk-qarabag/index.m3u8?stream_name=Eintracht+Frankfurt+vs+FK+Qarabag
+
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Liverpool vs Marseille (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_liverpool-vs-marseille_Liverpool_vs_Marseille" group-title="Live Events",[Champions League] Liverpool vs Marseille (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/liverpool-vs-marseille/index.m3u8?stream_name=Liverpool+vs+Marseille
+
+#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] PSV Eindhoven vs Newcastle United (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_psv-eindhoven-vs-newcastle-united_PSV_Eindhoven_vs_Newcastle_Uni" group-title="Live Events",[Champions League] PSV Eindhoven vs Newcastle United (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/psv-eindhoven-vs-newcastle-united/index.m3u8?stream_name=PSV+Eindhoven+vs+Newcastle+United
+
+#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Pafos vs Chelsea (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_pafos-vs-chelsea_Pafos_vs_Chelsea" group-title="Live Events",[Champions League] Pafos vs Chelsea (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/pafos-vs-chelsea/index.m3u8?stream_name=Pafos+vs+Chelsea
+
+#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Union St.-Gilloise vs Bayern Munich (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_union-st-gilloise-vs-bayern-munich_Union_St-Gilloise_vs_Bayern_Mu" group-title="Live Events",[Champions League] Union St.-Gilloise vs Bayern Munich (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://stream.nvrmind.xyz/strmfree/union-st-gilloise-vs-bayern-munich/index.m3u8?stream_name=Union+St.-Gilloise+vs+Bayern+Munich
+
+#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[Cricket Big Bash League] Hobart Hurricanes vs Melbourne Stars (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket Big Bash League] Hobart Hurricanes vs Melbourne Stars (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOO.m3u8
+http://205.237.105.202/hls/UUUUZZ.m3u8
 
-#EXTINF:-1 tvg-chno="149" tvg-id="Live.Event.us" tvg-name="[Asia Cup U23] Japan U23 vs South Korea U23 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Asia Cup U23] Japan U23 vs South Korea U23 (FAWA)
+#EXTINF:-1 tvg-chno="158" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] Afghanistan U19 vs Tanzania U19 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket ICC U19 World Cup] Afghanistan U19 vs Tanzania U19 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOOQ.m3u8
+http://205.237.105.202/hls/UUUU.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] AS Monaco vs Real Madrid (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_as-monaco-vs-real-madrid_AS_Monaco_vs_Real_Madrid" group-title="Live Events",[Champions League] AS Monaco vs Real Madrid (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/as-monaco-vs-real-madrid/index.m3u8?stream_name=AS+Monaco+vs+Real+Madrid
-
-#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Ajax Amsterdam vs Villarreal (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_ajax-amsterdam-vs-villarreal_Ajax_Amsterdam_vs_Villarreal" group-title="Live Events",[Champions League] Ajax Amsterdam vs Villarreal (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/ajax-amsterdam-vs-villarreal/index.m3u8?stream_name=Ajax+Amsterdam+vs+Villarreal
-
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Arsenal vs Internazionale (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_arsenal-vs-internazionale_Arsenal_vs_Internazionale" group-title="Live Events",[Champions League] Arsenal vs Internazionale (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/arsenal-vs-internazionale/index.m3u8?stream_name=Arsenal+vs+Internazionale
-
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Bayer Leverkusen vs Olympiacos (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_bayer-leverkusen-vs-olympiacos_Bayer_Leverkusen_vs_Olympiacos" group-title="Live Events",[Champions League] Bayer Leverkusen vs Olympiacos (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/bayer-leverkusen-vs-olympiacos/index.m3u8?stream_name=Bayer+Leverkusen+vs+Olympiacos
-
-#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Borussia Dortmund vs Tottenham Hotspur (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_borussia-dortmund-vs-tottenham-hotspur_Borussia_Dortmund_vs_Tottenham" group-title="Live Events",[Champions League] Borussia Dortmund vs Tottenham Hotspur (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/borussia-dortmund-vs-tottenham-hotspur/index.m3u8?stream_name=Borussia+Dortmund+vs+Tottenham+Hotspur
-
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Club Brugge vs Kairat Almaty (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_club-brugge-vs-kairat-almaty_Club_Brugge_vs_Kairat_Almaty" group-title="Live Events",[Champions League] Club Brugge vs Kairat Almaty (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/club-brugge-vs-kairat-almaty/index.m3u8?stream_name=Club+Brugge+vs+Kairat+Almaty
-
-#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Manchester City vs Bodo/Glimt (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_manchester-city-vs-bodoglimt_Manchester_City_vs_BodoGlimt" group-title="Live Events",[Champions League] Manchester City vs Bodo/Glimt (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/manchester-city-vs-bodoglimt/index.m3u8?stream_name=Manchester+City+vs+Bodo%2FGlimt
-
-#EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Napoli vs F.C. København (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_napoli-vs-fc-københavn_Napoli_vs_FC_København" group-title="Live Events",[Champions League] Napoli vs F.C. København (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/napoli-vs-fc-københavn/index.m3u8?stream_name=Napoli+vs+F.C.+K%C3%B8benhavn
-
-#EXTINF:-1 tvg-chno="158" tvg-id="Soccer.Dummy.us" tvg-name="[Champions League] Paris Saint-Germain vs Sporting CP (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_paris-saint-germain-vs-sporting-cp_Paris_Saint-Germain_vs_Sportin" group-title="Live Events",[Champions League] Paris Saint-Germain vs Sporting CP (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/paris-saint-germain-vs-sporting-cp/index.m3u8?stream_name=Paris+Saint-Germain+vs+Sporting+CP
-
-#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[Cricket Big Bash League] Perth Scorchers vs Sydney Sixers (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket Big Bash League] Perth Scorchers vs Sydney Sixers (FAWA)
+#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] England U19 vs Scotland U19 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket ICC U19 World Cup] England U19 vs Scotland U19 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/srrrqq.m3u8
+http://205.237.105.202/hls/UUUUZ.m3u8
 
-#EXTINF:-1 tvg-chno="160" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] Australia U19 vs Japan U19 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket ICC U19 World Cup] Australia U19 vs Japan U19 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="160" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Clippers @ Chicago Bulls (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Los Angeles Clippers @ Chicago Bulls (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/srrr.m3u8
+http://origin.thetvapp.to/hls/NBA03/mono.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] Bangladesh U19 vs New Zealand U19 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Cricket ICC U19 World Cup] Bangladesh U19 vs New Zealand U19 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="161" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers @ Denver Nuggets (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Los Angeles Lakers @ Denver Nuggets (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/srrrq.m3u8
+http://origin.thetvapp.to/hls/NBA04/mono.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] El Gouna vs Pyramids (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] El Gouna vs Pyramids (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="162" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Miami Heat @ Sacramento Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Miami Heat @ Sacramento Kings (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOOQQqQ.m3u8
+http://origin.thetvapp.to/hls/NBA07/mono.m3u8
 
-#EXTINF:-1 tvg-chno="163" tvg-id="Live.Event.us" tvg-name="[Egypt Cup] Petrojet vs Modern Sport (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Egypt Cup] Petrojet vs Modern Sport (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="163" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Minnesota Timberwolves @ Utah Jazz (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Minnesota Timberwolves @ Utah Jazz (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOOQQq.m3u8
+http://origin.thetvapp.to/hls/NBA05/mono.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-id="Soccer.Dummy.us" tvg-name="[FA Cup] Swindon Town vs Salford City (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/soccer_swindon-town-vs-salford-city_Swindon_Town_vs_Salford_City" group-title="Live Events",[FA Cup] Swindon Town vs Salford City (STRMFREE)
+#EXTINF:-1 tvg-chno="164" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Phoenix Suns @ Philadelphia 76ers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Phoenix Suns @ Philadelphia 76ers (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/NBA01/mono.m3u8
+
+#EXTINF:-1 tvg-chno="165" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs @ Houston Rockets (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] San Antonio Spurs @ Houston Rockets (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/NBA02/mono.m3u8
+
+#EXTINF:-1 tvg-chno="166" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Houston Rockets (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/basketball_san-antonio-spurs-vs-houston-rockets_San_Antonio_Spurs_vs_Houston_R" group-title="Live Events",[NBA] San Antonio Spurs vs Houston Rockets (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/swindon-town-vs-salford-city/index.m3u8?stream_name=Swindon+Town+vs+Salford+City
+https://stream.nvrmind.xyz/strmfree/san-antonio-spurs-vs-houston-rockets/index.m3u8?stream_name=San+Antonio+Spurs+vs+Houston+Rockets
 
-#EXTINF:-1 tvg-chno="165" tvg-id="Live.Event.us" tvg-name="[Friendly Match] BW Linz vs Cukaricki (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Friendly Match] BW Linz vs Cukaricki (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="167" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors @ Golden State Warriors (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors @ Golden State Warriors (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOOQQ.m3u8
+http://origin.thetvapp.to/hls/NBA06/mono.m3u8
 
-#EXTINF:-1 tvg-chno="166" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="168" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins @ Dallas Stars (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Boston Bruins @ Dallas Stars (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.134/hls/KBBBQQQQQ.m3u8
+http://origin.thetvapp.to/hls/TNTEast/mono.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="169" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Buffalo Sabres @ Nashville Predators (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Buffalo Sabres @ Nashville Predators (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.134/hls/KBBBQQQQQQ.m3u8
+http://origin.thetvapp.to/hls/NHL17/mono.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="Live.Event.us" tvg-name="[Kenya Premier League] Posta Rangers vs KCB (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Kenya Premier League] Posta Rangers vs KCB (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="170" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Minnesota Wild @ Montréal Canadiens (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Minnesota Wild @ Montréal Canadiens (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://37.49.225.198/hls/LOOOQQqQq.m3u8
+http://origin.thetvapp.to/hls/NHL11/mono.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Phoenix Suns vs Philadelphia 76ers (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/basketball_phoenix-suns-vs-philadelphia-76ers_Phoenix_Suns_vs_Philadelphia_7" group-title="Live Events",[NBA] Phoenix Suns vs Philadelphia 76ers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTINF:-1 tvg-chno="171" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New Jersey Devils @ Edmonton Oilers (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] New Jersey Devils @ Edmonton Oilers (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/phoenix-suns-vs-philadelphia-76ers/index.m3u8?stream_name=Phoenix+Suns+vs+Philadelphia+76ers
+http://origin.thetvapp.to/hls/TNTEast/mono.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Minnesota Wild vs Montreal Canadiens (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/hockey_minnesota-wild-vs-montreal-canadiens_Minnesota_Wild_vs_Montreal_Can" group-title="Live Events",[NHL] Minnesota Wild vs Montreal Canadiens (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTINF:-1 tvg-chno="172" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Rangers @ Los Angeles Kings (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] New York Rangers @ Los Angeles Kings (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/minnesota-wild-vs-montreal-canadiens/index.m3u8?stream_name=Minnesota+Wild+vs+Montreal+Canadiens
+http://origin.thetvapp.to/hls/NHL23/mono.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Ottawa Senators vs Columbus Blue Jackets (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/hockey_ottawa-senators-vs-columbus-blue-jackets_Ottawa_Senators_vs_Columbus_Bl" group-title="Live Events",[NHL] Ottawa Senators vs Columbus Blue Jackets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTINF:-1 tvg-chno="173" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Ottawa Senators @ Columbus Blue Jackets (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Ottawa Senators @ Columbus Blue Jackets (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/ottawa-senators-vs-columbus-blue-jackets/index.m3u8?stream_name=Ottawa+Senators+vs+Columbus+Blue+Jackets
+http://origin.thetvapp.to/hls/NHL18/mono.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks vs Tampa Bay Lightning (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/hockey_san-jose-sharks-vs-tampa-bay-lightning_San_Jose_Sharks_vs_Tampa_Bay_L" group-title="Live Events",[NHL] San Jose Sharks vs Tampa Bay Lightning (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-origin=https://streamfree.to/
+#EXTINF:-1 tvg-chno="174" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks @ Tampa Bay Lightning (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks @ Tampa Bay Lightning (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://stream.nvrmind.xyz/strmfree/san-jose-sharks-vs-tampa-bay-lightning/index.m3u8?stream_name=San+Jose+Sharks+vs+Tampa+Bay+Lightning
+http://origin.thetvapp.to/hls/NHL14/mono.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Tennis (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Live Events",[SKY] Sky Sports Tennis (STRMFREE)
+#EXTINF:-1 tvg-chno="175" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] St Louis Blues @ Winnipeg Jets (TVPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] St Louis Blues @ Winnipeg Jets (TVPASS)
+#EXTVLCOPT:http-referrer=https://tvpass.org
+#EXTVLCOPT:http-origin=https://tvpass.org
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://origin.thetvapp.to/hls/NHL01/mono.m3u8
+
+#EXTINF:-1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[SKY] Sky Sports Tennis (STRMFREE)" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Live Events",[SKY] Sky Sports Tennis (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-origin=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://stream.nvrmind.xyz/strmfree/skysportstennis/index.m3u8?stream_name=Sky+Sports+Tennis
 
-#EXTINF:-1 tvg-chno="174" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Champions League (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Snooker Champions League (FAWA)
+#EXTINF:-1 tvg-chno="177" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Champions League (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Snooker] Snooker Champions League (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.106.134/hls/BRRRR.m3u8
+
+#EXTINF:-1 tvg-chno="178" tvg-id="Live.Event.us" tvg-name="[Thailand Cup] Buriram vs Prachuap (FAWA)" tvg-logo="https://i.gyazo.com/978f2eb4a199ca5b56b447aded0cb9e3.png" group-title="Live Events",[Thailand Cup] Buriram vs Prachuap (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.105.202/hls/DVVV.m3u8
